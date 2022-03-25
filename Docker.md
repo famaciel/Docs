@@ -1,5 +1,7 @@
 # Docker Commands
 
+![docker](/images/docker.png)
+
 ### Listar imagens
 ```
 docker images
