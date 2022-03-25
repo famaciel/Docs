@@ -1,4 +1,4 @@
-# Docs and Scripts :+1:
+# :open_book: Docs and Scripts :+1:
 
 :package: [Docker](Docker.md)
 
