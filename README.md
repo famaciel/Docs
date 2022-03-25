@@ -1,6 +1,10 @@
-# Docs and Scripts
+# Docs and Scripts :+1:
 
-[Docker](Docker.md)
+:package: [Docker](Docker.md)
+
+:cloud: Terraform (todo)
+
+:octocat: Git (todo)
 
 Use `git clone` pra clonar um repositorio
 
