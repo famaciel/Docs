@@ -10,6 +10,11 @@ docker images
 docker image ls
 ```
 
+### Adicionar imagem
+```
+docker pull <image>
+```
+
 ### Remover imagem
 ```
 docker image rm <image> --force
